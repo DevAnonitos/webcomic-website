@@ -36,7 +36,7 @@ export default async function SearchType({ searchParams, }
     // });
     return (
       <div className="container mx-auto">
-        <h1 className="mx-auto mt-5 font-bold text-center text-2xl text-red">VUI LÒNG ĐĂNG NHẬP ĐỂ SỬ DỤNG TÍNH NĂNG NÀY</h1>
+        <h1 className="mx-auto mt-5 font-bold text-center text-2xl text-red-700">VUI LÒNG ĐĂNG NHẬP ĐỂ SỬ DỤNG TÍNH NĂNG NÀY</h1>
       </div>
     )
   }
